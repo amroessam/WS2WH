@@ -1,0 +1,5 @@
+pushbullet_accounts:
+  - name: Example Name
+    id: <PUSHBULLET_ID>
+    webhook_urls:
+      - 'https://localhost:8080'
