@@ -1,0 +1,4 @@
+  - [x] Create websocket server
+  - [x] Create webserver
+  - [x] Send websocket message to server on request
+  - [x] Added proper filtiration function
